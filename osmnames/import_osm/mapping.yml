@@ -171,6 +171,38 @@ tables:
       - station
       aeroway:
       - aerodrome
+      tourism:
+      - museum
+      - alpine_hut
+      - apartment
+      - apartment
+      - chalet
+      - aquarium
+      - artwork
+      - attraction
+      - camp_pitch
+      - camp_site
+      - caravan_site
+      - camp_site
+      - caravan_site
+      - chalet
+      - apartment
+      - chalet
+      - gallery
+      - museum
+      - guest_house
+      - hostel
+      - hotel
+      - information
+      - motel
+      - museum
+      - picnic_site
+      - theme_park
+      - trail_riding_station
+      - viewpoint
+      - wilderness_hut
+      - zoo
+      - yes
       shop:
       - computer
       - alcohol
@@ -795,6 +827,38 @@ tables:
       type:
       - associatedStreet
       - street
+      tourism:
+      - museum
+      - alpine_hut
+      - apartment
+      - apartment
+      - chalet
+      - aquarium
+      - artwork
+      - attraction
+      - camp_pitch
+      - camp_site
+      - caravan_site
+      - camp_site
+      - caravan_site
+      - chalet
+      - apartment
+      - chalet
+      - gallery
+      - museum
+      - guest_house
+      - hostel
+      - hotel
+      - information
+      - motel
+      - museum
+      - picnic_site
+      - theme_park
+      - trail_riding_station
+      - viewpoint
+      - wilderness_hut
+      - zoo
+      - yes
 tags:
   load_all: true
 
