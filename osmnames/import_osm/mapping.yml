@@ -478,6 +478,57 @@ tables:
       - windmill
       - entrance
       - offices
+      leisure:
+      - swimming_pool
+      - nature_reserve
+      - adult_gaming_centre
+      - amusement_arcade
+      - amusement_arcade
+      - adult_gaming_centre
+      - bandstand
+      - bathing_place
+      - beach_resort
+      - bird_hide
+      - bleachers
+      - bowling_alley
+      - common
+      - dance
+      - disc_golf_course
+      - dog_park
+      - escape_game
+      - firepit
+      - fishing
+      - fitness_centre
+      - fitness_station
+      - garden
+      - golf_course
+      - hackerspace
+      - horse_riding
+      - pitch
+      - ice_rink
+      - marina
+      - miniature_golf
+      - nature_reserve
+      - outdoor_seating
+      - park
+      - picnic_table
+      - pitch
+      - playground
+      - resort
+      - sauna
+      - slipway
+      - sports_centre
+      - sports_hall
+      - stadium
+      - summer_camp
+      - swimming_area
+      - swimming_pool
+      - tanning_salon
+      - track
+      - trampoline_park
+      - water_park
+      - wildlife_hide
+      - bird_hide
       amenity:
       - grit_bin
       - parking_entrance
